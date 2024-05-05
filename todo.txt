@@ -1,4 +1,4 @@
-1.Request permission id
-2.Logo and styles
-3.security
+1.Permission QR
+2.Scan QR
+3.Send Message
 4.

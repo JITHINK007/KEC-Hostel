@@ -109,7 +109,7 @@
   
   <!--===============================================================================================-->
   <body>
-  <!--===============================================================================================-->section>
+  <!--===============================================================================================--><section>
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top " style="background:#2196f3;">
 	<a class="navbar-brand"  style="color: white;" href="#">E-Out Pass</a>
 	<button
@@ -170,6 +170,9 @@
 		<li class="nav-item">
 		  <a class="nav-link" href="studentregistration.php"> &#128221; Student Registration</a>
 		</li>
+		<li class="nav-item">
+            <a class="nav-link " href="xmlstudentdata.php"> &#128221; Upload File</a>
+        </li>
 		<li class="nav-item active">
 			<a class="nav-link" href="studentdata.php">&#127891; Student Data</a>
 		  </li>

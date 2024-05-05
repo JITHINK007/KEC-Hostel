@@ -247,14 +247,7 @@
 				  <input  type="text"  name="reason" class="form-control rounded-pill"  placeholder="Reason" required />
 				</div>
 			  </div>
-			  <div class="form-group">
-				<div class="input-group">
-				  <span class="input-group-addon">
-				  <span class="glyphicon glyphicon-user"></span>
-				  </span>
-				  <input  type="tel"  name="contacnumber" class="form-control rounded-pill"  placeholder="Contact Number" required />
-				</div>
-			  </div>
+			  
 
             <br>
             <div class="form-group text-center">
